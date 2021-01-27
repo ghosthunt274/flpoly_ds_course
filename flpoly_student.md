@@ -1,23 +1,23 @@
-## First Name Last Name
+## Conner Murphy
 
-### Term Year 
+### Spring 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Purchasing and materials Management
 
-- Course 2
+- International Business
 
-- Course 3
+- Law, Public Policy, Negotiation in Business
 
-- Course 4
+- Operations Research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- fitness
 
-- Thing 2
+- friends and family
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- traveling as shown in this website <https://www.nps.gov>
