@@ -19,6 +19,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | EGN    | 3448          |     Operations Research                              |  3           |
 | GEB    | 3373          | International and Comparative Dimensions of Business |  3           |
 | MAN    | 3570          | Purchasing and Materials Management                  |  3           |
+
+
+
 **Hobbies:**
 
 I am _passionate about_: 
